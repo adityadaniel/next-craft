@@ -5,9 +5,16 @@ const BLOG = {
   lightBackground: '#FFFFFF', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#222222', // use hex value, don't forget '#'
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
-  craftConfigShareUrl: 'https://www.craft.do/s/iqmcBN6PShEPxM', // The link to share your craft config
+  craftConfigShareUrl: 'https://www.craft.do/s/MvPnjYMMgRQM5B', // The link to share your craft config
   seo: {
-    keywords: ['Blog', 'Craft.do', 'Craft Docs', 'Next.js', 'TailwindCSS']
+    keywords: [
+      'notes',
+      'digital garden',
+      'craft',
+      'pkm',
+      'wiki',
+      'engineering'
+    ]
   },
   analytics: {
     provider: '', // Currently support Umami, fill with 'umami' to enable or leave it empty to disable it.
